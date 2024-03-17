@@ -1,0 +1,55 @@
+// 用 JSON 定義英國的相關資訊，JSON 有 4 層，資料以台灣中文呈現，key 用英文
+{
+  "CountryName": "英國",
+  "Capital": "倫敦",
+  "Population": "約 6,660萬人",
+  "Languages": ["英語"],
+  "Currency": "英鎊 (GBP)",
+  "Geography": {
+    "Location": "歐洲",
+    "Area": "243,610平方公里",
+    "Climate": "溫帶海洋性氣候",
+    "NotableRegions": [
+      {
+        "Name": "英格蘭",
+        "Cities": [
+          {
+            "Name": "曼徹斯特",
+            "Population": "約 55萬人",
+            "FamousFor": ["足球", "工業革命"]
+          },
+          {
+            "Name": "伯明翰",
+            "Population": "約 109萬人",
+            "FamousFor": ["金屬加工業", "音樂"]
+          }
+        ]
+      },
+      {
+        "Name": "蘇格蘭",
+        "Cities": [
+          {
+            "Name": "愛丁堡",
+            "Population": "約 53萬人",
+            "FamousFor": ["國際藝穗節", "歷史建築"]
+          },
+          {
+            "Name": "格拉斯哥",
+            "Population": "約 63萬人",
+            "FamousFor": ["音樂", "博物館"]
+          }
+        ]
+      }
+    ]
+  },
+  "Economy": {
+    "GDP": "2.83萬億美元",
+    "MajorIndustries": ["金融服務", "製藥", "教育", "旅遊"],
+    "TradePartners": ["美國", "德國", "中國"]
+  },
+  "Culture": {
+    "Foods": ["魚與薯條", "全英早餐", "下午茶"],
+    "Sports": ["足球", "板球", "橄欖球"],
+    "Festivals": ["溫布頓網球錦標賽", "諾丁山嘉年華", "愛丁堡國際藝穗節"]
+  }
+}
