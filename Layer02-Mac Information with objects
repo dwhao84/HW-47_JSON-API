@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Macintosh 128K",
+    "ReleaseYear": 1984,
+    "Features": ["第一代 Macintosh", "9英寸黑白顯示器", "128KB 記憶體"],
+    "Price": "2,495美元"
+  },
+  {
+    "Name": "iMac G3",
+    "ReleaseYear": 1998,
+    "Features": ["彩色透明塑料外殼", "內置 CRT 顯示器", "USB 連接"],
+    "Price": "1,299美元"
+  },
+  {
+    "Name": "MacBook Air",
+    "ReleaseYear": 2008,
+    "Features": ["超薄設計", "13.3英寸顯示器", "SSD 儲存"],
+    "Price": "1,799美元"
+  },
+  {
+    "Name": "Mac Pro",
+    "ReleaseYear": 2019,
+    "Features": ["模組化設計", "高性能", "專業級擴展性"],
+    "Price": "5,999美元"
+  },
+  {
+    "Name": "MacBook Pro 16英寸",
+    "ReleaseYear": 2019,
+    "Features": ["Retina 顯示器", "觸控欄", "高性能處理器"],
+    "Price": "2,399美元"
+  }
+]
