@@ -1,0 +1,32 @@
+{
+  "AppleWatchSeries": "Series 7",
+  "ReleaseDate": "October 2021",
+  "OperatingSystem": "watchOS 8",
+  "Features": [
+    "Always-On Retina display",
+    "ECG app",
+    "Blood Oxygen app",
+    "Crack-resistant front crystal",
+    "Dust resistance (IP6X)",
+    "Water resistance (WR50)"
+  ],
+  "AvailableSizes": [
+    "41mm",
+    "45mm"
+  ],
+  "Processor": "S7 SiP with 64-bit dual-core processor",
+  "Storage": "32GB",
+  "Connectivity": [
+    "Wi-Fi 802.11b/g/n 2.4GHz and 5GHz",
+    "Bluetooth 5.0",
+    "LTE and UMTS cellular"
+  ],
+  "BatteryLife": "Up to 18 hours",
+  "ColorOptions": [
+    "Midnight",
+    "Starlight",
+    "Green",
+    "Blue",
+    "(Product)RED"
+  ]
+}
