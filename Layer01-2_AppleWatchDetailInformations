@@ -1,0 +1,32 @@
+{
+  "ProductName": "SmartWatch X1",
+  "ModelYear": 2024,
+  "Price": 299.99,
+  "Features": [
+    "Heart Rate Monitor",
+    "GPS",
+    "Water Resistant",
+    "Sleep Tracking"
+  ],
+  "BatteryLifeHours": 48,
+  "ScreenSizeInches": 1.78,
+  "WaterResistanceRating": "IP68",
+  "MemoryGB": 16,
+  "AvailableColors": [
+    "Black",
+    "Silver",
+    "Rose Gold"
+  ],
+  "Connectivity": [
+    "Bluetooth 5.2",
+    "Wi-Fi 6",
+    "NFC"
+  ],
+  "Sensors": [
+    "Accelerometer",
+    "Gyroscope",
+    "Barometer"
+  ],
+  "OperatingSystem": "SmartOS 3.1",
+  "WeightGrams": 50
+}
